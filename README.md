@@ -61,3 +61,6 @@ The company needed timely, structured data on thousands of music events (title, 
 
 - Web scraping for production analytics is an ongoing process—robust error handling and adaptability are key.
 - Free/open mapping and geocoding tool
+
+## Interested in how I built this or want to see code samples?
+Connect with me on [LinkedIn](https://www.linkedin.com/in/rutvik09/) or email [rutvikdeshmukh5@gmail.com].
